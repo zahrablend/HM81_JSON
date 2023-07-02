@@ -1,0 +1,5 @@
+﻿## 81. Hm - identify object from the file (JSON)
+
+Create class which represents the object in the file, load/write data from/to file "test.json":
+
+{"id":100,"name":"Gusts","surname":"Link","grades":[4,6,7,8,9,3,5]}
